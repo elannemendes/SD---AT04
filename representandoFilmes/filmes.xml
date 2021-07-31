@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listaDeFilmes>
+    <filme>
+        <filmeID>0001</filmeID>
+        <titulo>Luca</titulo>
+        <ano>2021</ano>
+        <avaliacao>7.5</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0011</filmeID>
+                <titulo>Raya e o último dragão</titulo>
+                <ano>2021</ano>
+                <avaliacao>7.4</avaliacao>
+              	<linktrailer>https://www.imdb.com/video/vi576438553?playlistId=tt5109280&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0012</filmeID>
+                <titulo>Soul</titulo>
+                <ano>2021</ano>
+                <avaliacao>8.1</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi1257423129?playlistId=tt2948372&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0013</filmeID>
+                <titulo>Viva: A Vida é uma Festa</titulo>
+                <ano>2017</ano>
+                <avaliacao>8.4</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi4249729305?playlistId=tt2380307&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi3001794585?playlistId=tt12801262&ref_=tt_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0002</filmeID>
+        <titulo>A Origem</titulo>
+        <ano>2010</ano>
+        <avaliacao>8.8</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0014</filmeID>
+                <titulo>Interestelar</titulo>
+                <ano>2014</ano>
+                <avaliacao>8.6</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi1586278169?playlistId=tt0816692&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0015</filmeID>
+                <titulo>Batman: O Cavaleiro das Trevas</titulo>
+                <ano>2008</ano>
+                <avaliacao>9.0</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi324468761?playlistId=tt0468569&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0016</filmeID>
+                <titulo>Clube da Luta</titulo>
+                <ano>1999</ano>
+                <avaliacao>8.8</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi781228825?playlistId=tt0137523&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi2959588889?playlistId=tt1375666&ref_=tt_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0003</filmeID>
+        <titulo>Sem Limites</titulo>
+        <ano>2011</ano>
+        <avaliacao>7.4</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0017</filmeID>
+                <titulo>Lucy</titulo>
+                <ano>2014</ano>
+                <avaliacao>6.4</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi4114984217?playlistId=tt2872732&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0018</filmeID>
+                <titulo>Eu Sou a Lenda</titulo>
+                <ano>2007</ano>
+                <avaliacao>7.2</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi3820028185?playlistId=tt0480249&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0019</filmeID>
+                <titulo>Contra o Tempo</titulo>
+                <ano>2011</ano>
+                <avaliacao>7.5</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi3948911129?playlistId=tt0945513&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi2114755097?playlistId=tt1219289&ref_=tt_pr_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0004</filmeID>
+        <titulo>Edge of Tomorrow</titulo>
+        <ano>2014</ano>
+        <avaliacao>7.9</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0020</filmeID>
+                <titulo>Oblivion</titulo>
+                <ano>2013</ano>
+                <avaliacao>7.0</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi4114984217?playlistId=tt2872732&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0021</filmeID>
+                <titulo>Guerra Mundial Z</titulo>
+                <ano>2013</ano>
+                <avaliacao>7.0</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi3616319001?playlistId=tt0816711&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0018</filmeID>
+                <titulo>Eu Sou a Lenda</titulo>
+                <ano>2007</ano>
+                <avaliacao>7.2</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi3820028185?playlistId=tt0480249&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi498116121?playlistId=tt1483013&ref_=tt_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0005</filmeID>
+        <titulo>The Avengers</titulo>
+        <ano>2012</ano>
+        <avaliacao>8.0</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0022</filmeID>
+                <titulo>Avengers: Age of Ultron</titulo>
+                <ano>2013</ano>
+                <avaliacao>7.3</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi2821566745?playlistId=tt2395427&ref_=tt_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0023</filmeID>
+                <titulo>Captain America: Civil War</titulo>
+                <ano>2016</ano>
+                <avaliacao>7.8</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi174044441?playlistId=tt3498820&ref_=tt_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0024</filmeID>
+                <titulo>Captain America: The Winter Soldier</titulo>
+                <ano>2014</ano>
+                <avaliacao>7.7</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi111127321?playlistId=tt1843866&ref_=tt_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi1891149081?playlistId=tt0848228&ref_=tt_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0006</filmeID>
+        <titulo>Matrix</titulo>
+        <ano>1999</ano>
+        <avaliacao>8.7</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0002</filmeID>
+                <titulo>A Origem</titulo>
+                <ano>2010</ano>
+                <avaliacao>8.8</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi2959588889?playlistId=tt1375666&ref_=tt_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0016</filmeID>
+                <titulo>Clube da Luta</titulo>
+                <ano>1999</ano>
+                <avaliacao>8.8</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi781228825?playlistId=tt0137523&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0025</filmeID>
+                <titulo>Forrest Gump: O Contador de Histórias</titulo>
+                <ano>1994</ano>
+                <avaliacao>8.8</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi3567517977?playlistId=tt0109830&ref_=tt_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi1032782617?playlistId=tt0133093&ref_=tt_pr_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0007</filmeID>
+        <titulo>Avatar</titulo>
+        <ano>2009</ano>
+        <avaliacao>7.8</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0026</filmeID>
+                <titulo>The Martian</titulo>
+                <ano>2015</ano>
+                <avaliacao>8.0</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi113423129?playlistId=tt3659388&ref_=tt_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0027</filmeID>
+                <titulo>Titanic</titulo>
+                <ano>1997</ano>
+                <avaliacao>7.8</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi907189785?playlistId=tt0120338&ref_=tt_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0028</filmeID>
+                <titulo>Deadpool</titulo>
+                <ano>2016</ano>
+                <avaliacao>8.0</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi567457049?playlistId=tt1431045&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi531039513?playlistId=tt0499549&ref_=tt_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0008</filmeID>
+        <titulo>Harry Potter and the Sorcerer's Stone</titulo>
+        <ano>2001</ano>
+        <avaliacao>7.6</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0029</filmeID>
+                <titulo>Harry Potter and the Chamber of Secrets</titulo>
+                <ano>2002</ano>
+                <avaliacao>7.4</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi1705771289?playlistId=tt0295297&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0030</filmeID>
+                <titulo>Harry Potter and the Prisoner of Azkaban</titulo>
+                <ano>2004</ano>
+                <avaliacao>7.9</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi2007761177?playlistId=tt0304141&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0031</filmeID>
+                <titulo>Harry Potter and the Goblet of Fire</titulo>
+                <ano>2005</ano>
+                <avaliacao>7.7</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi2611740953?playlistId=tt0330373&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi3115057433?playlistId=tt0241527&ref_=tt_pr_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0009</filmeID>
+        <titulo> Gravity</titulo>
+        <ano>2013</ano>
+        <avaliacao>7.7</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0026</filmeID>
+                <titulo>The Martian</titulo>
+                <ano>2015</ano>
+                <avaliacao>8.0</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi113423129?playlistId=tt3659388&ref_=tt_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0031</filmeID>
+                <titulo>The Revenant</titulo>
+                <ano>2015</ano>
+                <avaliacao>8.0</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi3857035801?playlistId=tt1663202&ref_=tt_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0032</filmeID>
+                <titulo>As Aventuras de Pi</titulo>
+                <ano>2012</ano>
+                <avaliacao>7.9</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi2646320921?playlistId=tt0454876&ref_=tt_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi2340006169?playlistId=tt1454468&ref_=tt_ov_vi</linktrailer>
+    </filme>
+    <filme>
+        <filmeID>0010</filmeID>
+        <titulo>The Pursuit of Happyness</titulo>
+        <ano>2006</ano>
+        <avaliacao>8.0</avaliacao>
+        <listaFilmes>
+            <filme>
+                <filmeID>0033</filmeID>
+                <titulo>I Am Legend</titulo>
+                <ano>2007</ano>
+                <avaliacao>7.2</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi113423129?playlistId=tt3659388&ref_=tt_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0034</filmeID>
+                <titulo>Seven Pounds</titulo>
+                <ano>2008</ano>
+                <avaliacao>7.6</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi2170028057?playlistId=tt0814314&ref_=tt_pr_ov_vi</linktrailer>
+            </filme>
+            <filme>
+                <filmeID>0035</filmeID>
+                <titulo>Náufrago</titulo>
+                <ano>2000</ano>
+                <avaliacao>7.8</avaliacao>
+                <linktrailer>https://www.imdb.com/video/vi127449625?playlistId=tt0162222&ref_=tt_ov_vi</linktrailer>
+            </filme>
+        </listaFilmes>
+        <linktrailer>https://www.imdb.com/video/vi1413719065?playlistId=tt0454921&ref_=tt_pr_ov_vi</linktrailer>
+    </filme>
+</listaDeFilmes>

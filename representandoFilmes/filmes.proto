@@ -1,0 +1,33 @@
+syntax = "proto2";
+
+message ListaFilmes {
+
+    message Filme {
+        required string filmeID = 1
+        required string titulo = 2
+        required string ano = 3
+        required string avaliacao = 4
+
+        message Recomendado {
+
+            message Filmes {
+                required int32 id = 1;
+                required string titulo = 2;
+                required int32 ano = 3;
+                required int32 imdb = 4;
+                required string trailer = 5;
+            }
+
+        repeated Filmes recomendados = 1
+      }
+
+        required Recomendado recomendados = 5
+        required string linktrailer = 6
+    }
+
+    repeated Filme filme = 1
+}
+
+message ListaDeFilmes {
+    required ListaFilmes filmes = 1
+}
